@@ -19,7 +19,7 @@ npm run build
 ```
 npm run lint
 ```
-### You can build this container with:
+### You can build this with:
 ```
 docker build -t dockerize-vue .
 ```
